@@ -18,7 +18,7 @@ This project is an OTP (One-Time Password) Generator built using Python and adva
 
 Python 3+
 
-Libraries: secrets, random, time, hashlib (and others as required)
+Libraries: secrets, random, time, hashlib,smtplib (and others as required)
 
 🚀 Use Cases
 
